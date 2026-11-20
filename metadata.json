@@ -1,0 +1,6 @@
+{
+  "name": "የኢትዮጵያ ፌድሬሽን አሻራ መስጫ ገፅ",
+  "description": "የኢትዮጵያ ፌድሬሽን የአሻራ ማስመዝገቢያ ስርዓት - ዘመናዊ የዲጂታል ጣት አሻራ መመዝገቢያ መድረክ።",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
